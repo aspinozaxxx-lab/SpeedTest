@@ -1,0 +1,77 @@
+512 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+505 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+517 | Оформление несоответствий | INCONS_CREATE_LIST
+508 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+510 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+507 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+511 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+514 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+513 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+515 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+509 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+518 | Оформление несоответствий | INCONS_CREATE_LIST
+25 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+26 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+28 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+27 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+32 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+33 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+29 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+30 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+35 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+31 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+34 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+36 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+37 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+38 | Оформление несоответствий | INCONS_CREATE_LIST
+39 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+516 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+41 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+43 | Оформление несоответствий | INCONS_CREATE_LIST
+40 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+42 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+44 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+45 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+46 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+47 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+56 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+57 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+59 | Оформление несоответствий | INCONS_CREATE_LIST
+58 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+60 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+50 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+51 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+52 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+55 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+61 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+62 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+63 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+64 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+65 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+506 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+519 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+66 | Оформление несоответствий | INCONS_CREATE_LIST
+72 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+73 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+54 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+53 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+48 | Оформление несоответствий | INCONS_CREATE_LIST
+521 | Оформление несоответствий | INCONS_CREATE_LIST
+74 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+76 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+520 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+654 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+648 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+650 | Назначение руководителя ФГЭОБ АЭС | INCONS_ASSING_CHIEF_FGOB
+660 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+658 | Подтверждение отмены регистрации несоответствия | INCONS_REGISTRATION_NOT_NEEDED
+657 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+659 | Подтверждение отмены регистрации несоответствия | INCONS_REGISTRATION_NOT_NEEDED
+655 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+656 | Назначение координаторов АЭС | INCONS_ASSIGN_COORDINATOR_NPP
+662 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+663 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP
+661 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+665 | Назначение руководителей подразделений | INCONS_ASSIGN_HEADS_OF_DEPARTMENTS
+668 | Оформление несоответствий | INCONS_CREATE_LIST
+667 | Назначение экспертов АЭС | INCONS_ASSIGN_EXPERTS_NPP

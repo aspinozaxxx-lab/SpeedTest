@@ -124,7 +124,7 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">{&quot;states&quot;:[&quot;NEW&quot;]}</stringProp>
+                <stringProp name="Argument.value">{&quot;userTaskState&quot;:[&quot;NEW&quot;]}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
@@ -180,7 +180,7 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">{&quot;processNameRu&quot;:&quot;Регистрация несоответствий сотрудниками АЭС&quot;,&quot;stageName&quot;:&quot;Оформление несоответствий&quot;,&quot;states&quot;:[&quot;NEW&quot;]}</stringProp>
+                <stringProp name="Argument.value">{&quot;processNameRu&quot;:&quot;Регистрация несоответствий сотрудниками АЭС&quot;,&quot;stageName&quot;:&quot;Оформление несоответствий&quot;,&quot;userTaskState&quot;:[&quot;NEW&quot;]}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
